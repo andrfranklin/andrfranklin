@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **andrfranklin/andrfranklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## André Franklin :man_technologist:
+
+Hi there 👋, I'm 19 years old, currently student of Federal University of Rio Grande do Norte, Brazil :brazil: . I'm Computer Technician by the Federal Institute of education, science and technology of Rio Grande do Norte , **where I became curious about the world :earth_americas: and of course, technology since then.**
+
+
+
+Read my profile and feel free to text me on [Linkedin](https://linkedin.com/in/andr%C3%A9-franklin-3800101a6) or [E-mail](mailto:andre.franklin.cp@gmail.com). In this moment i'm not using other social networks. Thank you ;)
+
+
+____
+**I'm passionate about computer science :computer: , and design. In this moment I'm learning:**
+
+- Node
+- Nest js
+- React JS and React native
+___
+**Some of my knowledge till this moment is:**
+
+- System architecture
+- SCRUM
+- PostgreSQL
+- MySQL
+- Python
+- Java
+- Angular JS
+- English (studying currently)
+- Spanish (studying currently)
