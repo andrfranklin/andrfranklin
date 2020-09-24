@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## André Franklin :man_technologist:
 
-Hi there 👋, I'm 19 years old, currently student of Federal University of Rio Grande do Norte, Brazil :brazil: . I'm Computer Technician by the Federal Institute of education, science and technology of Rio Grande do Norte , **where I became curious about the world :earth_americas: and of course, technology since then.**
+Hi there 👋, I'm 20 years old, currently student of Federal University of Rio Grande do Norte, Brazil :brazil: . I'm Computer Technician by the Federal Institute of education, science and technology of Rio Grande do Norte , **where I became curious about the world :earth_americas: and of course, technology since then.**
 
 
 
