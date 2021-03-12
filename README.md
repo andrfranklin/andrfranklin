@@ -23,7 +23,7 @@ Hi there 👋, I'm 20 years old, currently student of Federal University of Rio 
 
 
 
-Read my profile and feel free to text me on [Linkedin](https://linkedin.com/in/andr%C3%A9-franklin-3800101a6) or [E-mail](mailto:andre.franklin.cp@gmail.com). In this moment i'm not using other social networks. Thank you ;)
+Read my profile and feel free to text me on [Linkedin](https://linkedin.com/in/andrfranklin) or [E-mail](mailto:andre.franklin.cp@gmail.com). In this moment i'm not using other social networks. Thank you ;)
 
 
 ____
