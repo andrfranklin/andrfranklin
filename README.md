@@ -39,7 +39,6 @@ ___
 - JS
 - Next js
 - Node
-- SCRUM
 - PostgreSQL
 - MySQL
 - Angular JS
