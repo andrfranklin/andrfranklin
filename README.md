@@ -29,18 +29,19 @@ Read my profile and feel free to text me on [Linkedin](https://linkedin.com/in/a
 ____
 **I'm passionate about computer science :computer: , and design. In this moment I'm learning:**
 
-- Node
 - Nest js
-- React JS and React native
 ___
 **Some of my knowledge till this moment is:**
 
 - System architecture
+- HTML
+- CSS
+- JS
+- Next js
+- Node
 - SCRUM
 - PostgreSQL
 - MySQL
-- Python
-- Java
 - Angular JS
 - English (studying currently)
 - Spanish (studying currently)
