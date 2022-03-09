@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 
 ### Hey, I'm André Franklin <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-___
 I'm a Full-Stack Software Engineer and enthusiast of the development technologies, bachelor's student in Information Technology and web development researcher.
 
 I also love teaching, talking and sharing knowledge.
 
+---
 #### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
