@@ -31,7 +31,7 @@ I also love teaching, talking and sharing knowledge.
 ![JQuery](https://img.shields.io/badge/-JQuery-white?style=for-the-badge&logo=jquery&logoColor=0769AD)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=C21325)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-white?style=for-the-badge&logo=mariadb&logoColor=003545)&nbsp;
